@@ -1,4 +1,4 @@
-# Getting Started with portfolio app
+# Getting Started with portfolio app (for practice)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
